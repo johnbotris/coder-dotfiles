@@ -7,4 +7,4 @@ npm install -g nx
 
 apt-get install vim
 
-cp bashrc >> ~/.bashrc
+cat bashrc >> ~/.bashrc
