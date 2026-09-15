@@ -8,3 +8,5 @@ npm install -g nx
 apt-get install vim
 
 cat bashrc >> ~/.bashrc
+
+npx skills@latest add mattpocock/skills --global --agent claude-code --agent codex --all --yes
